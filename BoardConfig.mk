@@ -82,4 +82,5 @@ TARGET_INIT_VENDOR_LIB := libinit_a56dj
 
 #Official
 PB_OFFICIAL := true
+PB_FORCE_DD_FLASH := true
 
