@@ -26,6 +26,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xhdpi
+TW_THEME := portrait_hdpi
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
